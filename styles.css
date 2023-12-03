@@ -17,7 +17,6 @@ body{
     color: white;
     background-color: rgb(0, 0, 0);
     font-size:larger;
-    border:1px solid rgb(0, 0, 0);
     padding: 1px ;
     min-width: 20%;  
 }
@@ -113,7 +112,6 @@ body{
 }
 
 .img1, .img2, .img3, .img4, .img5, .img6 {
-    border: 10px solid rgb(34, 27, 27);
     background-color: rgb(39, 36, 36);
 
 } 
